@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569354263 source:g:\c program ex\prime number effecient way\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

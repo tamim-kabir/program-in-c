@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569662895 source:g:\c program ex\sives number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
