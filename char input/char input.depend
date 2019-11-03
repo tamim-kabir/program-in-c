@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571602943 source:c:\users\kamrul bhuiyan\desktop\c ex\char input\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
