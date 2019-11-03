@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570986203 source:g:\c program ex\ansi balagurusamy solotion\first chapter\piramid2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
