@@ -14,7 +14,7 @@ int pn(int n){ //pn = prime number
         return 0;
     }
     root = sqrt(n);
-    for(i = 3; n <= root; i = i + 2){
+    for(i = 3; i <= root; i = i + 2){
         if(n % i == 0){
             return 0;
         }
